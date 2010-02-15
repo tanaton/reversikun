@@ -1,7 +1,8 @@
-#include <stdio.h>
+﻿#include <stdio.h>
 #include "display.h"
 #include "reversi.h"
 
+/* プロトタイプ宣言 */
 static int getColor(const SCREEN *d, const char *c);
 static void flash(const SCREEN *d);
 

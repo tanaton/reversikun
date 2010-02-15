@@ -1,11 +1,11 @@
-#ifndef INCLUDE_REVERSIKUN_DISPLAY_H
+﻿#ifndef INCLUDE_REVERSIKUN_DISPLAY_H
 #define INCLUDE_REVERSIKUN_DISPLAY_H
 
 #include <X11/Xlib.h>
 #include <X11/Xutil.h>
 #include "reversi.h"
 
-/* �萔�錾 */
+/* 定数宣言 */
 #define WINDOW_WIDTH	(320)
 #define WINDOW_HEIGHT	(320)
 #define MASU_WIDTH		(30)

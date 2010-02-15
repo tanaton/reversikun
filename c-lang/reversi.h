@@ -1,7 +1,7 @@
-#ifndef INCLUDE_REVERSIKUN_REVERSI_H
+﻿#ifndef INCLUDE_REVERSIKUN_REVERSI_H
 #define INCLUDE_REVERSIKUN_REVERSI_H
 
-/* �萔�錾 */
+/* 定数宣言 */
 #define MASU_SIZE		(8)
 #define MASU_SIRO		(1)
 #define MASU_KURO		(-1)

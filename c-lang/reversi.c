@@ -1,6 +1,7 @@
-#include <stdio.h>
+﻿#include <stdio.h>
 #include "reversi.h"
 
+/* プロトタイプ宣言 */
 static int putStoneCheck(GAME *g, int i, int j);
 static int stoneCheck(const GAME *g, int i, int j, int y, int x);
 static int boardPoint(GAME *g, int flag);

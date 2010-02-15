@@ -1,7 +1,8 @@
-#include <stdio.h>
+﻿#include <stdio.h>
 #include "display.h"
 #include "reversi.h"
 
+/* プロトタイプ宣言 */
 static void turn(SCREEN *d, GAME *g, int x, int y);
 
 int main(int argc, char *argv[])

@@ -1,3 +1,4 @@
+﻿# Makefile Xリバーシ君用
 PROGRAM = xreversikun
 OBJ = main.o reversi.o display.o
 CC = gcc
